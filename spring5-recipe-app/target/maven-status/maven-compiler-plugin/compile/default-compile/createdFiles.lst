@@ -1,0 +1,14 @@
+com/ibeka/spring5recipeapp/model/UnitOfMeasure.class
+com/ibeka/spring5recipeapp/services/RecipeService.class
+com/ibeka/spring5recipeapp/bootstrap/RecipeBootstrap.class
+com/ibeka/spring5recipeapp/Spring5RecipeAppApplication.class
+com/ibeka/spring5recipeapp/model/Notes.class
+com/ibeka/spring5recipeapp/controllers/IndexController.class
+com/ibeka/spring5recipeapp/model/Recipe.class
+com/ibeka/spring5recipeapp/repositories/UnitOfMeasureRepository.class
+com/ibeka/spring5recipeapp/repositories/CategoryRepository.class
+com/ibeka/spring5recipeapp/model/Difficulty.class
+com/ibeka/spring5recipeapp/model/Category.class
+com/ibeka/spring5recipeapp/model/Ingredient.class
+com/ibeka/spring5recipeapp/services/RecipeServiceImpl.class
+com/ibeka/spring5recipeapp/repositories/RecipeRepository.class

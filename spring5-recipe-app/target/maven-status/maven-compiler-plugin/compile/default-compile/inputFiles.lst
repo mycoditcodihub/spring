@@ -1,0 +1,14 @@
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/Recipe.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/services/RecipeService.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/Ingredient.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/repositories/CategoryRepository.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/Difficulty.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/Spring5RecipeAppApplication.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/UnitOfMeasure.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/services/RecipeServiceImpl.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/repositories/RecipeRepository.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/controllers/IndexController.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/bootstrap/RecipeBootstrap.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/Category.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/repositories/UnitOfMeasureRepository.java
+/Users/cyrilibeka/Documents/Java/All_Java_Folders/udemy/spring/spring5-recipe-app/src/main/java/com/ibeka/spring5recipeapp/model/Notes.java
