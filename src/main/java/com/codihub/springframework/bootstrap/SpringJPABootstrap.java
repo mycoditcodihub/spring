@@ -1,11 +1,11 @@
-package guru.springframework.bootstrap;
+package com.codihub.springframework.bootstrap;
 
-import guru.springframework.domain.*;
-import guru.springframework.domain.security.Role;
-import guru.springframework.enums.OrderStatus;
-import guru.springframework.services.ProductService;
-import guru.springframework.services.RoleService;
-import guru.springframework.services.UserService;
+import com.codihub.springframework.domain.*;
+import com.codihub.springframework.domain.security.Role;
+import com.codihub.springframework.enums.OrderStatus;
+import com.codihub.springframework.services.ProductService;
+import com.codihub.springframework.services.RoleService;
+import com.codihub.springframework.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;

@@ -1,7 +1,7 @@
-package guru.springframework.services.jpaservices;
+package com.codihub.springframework.services.jpaservices;
 
-import guru.springframework.domain.security.Role;
-import guru.springframework.services.RoleService;
+import com.codihub.springframework.domain.security.Role;
+import com.codihub.springframework.services.RoleService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

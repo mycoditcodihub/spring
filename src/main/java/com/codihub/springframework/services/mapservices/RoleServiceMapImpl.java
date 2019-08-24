@@ -1,4 +1,4 @@
-package guru.springframework.services.mapservices;
+package com.codihub.springframework.services.mapservices;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;

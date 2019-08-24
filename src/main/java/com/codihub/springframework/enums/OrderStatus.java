@@ -1,4 +1,4 @@
-package guru.springframework.enums;
+package com.codihub.springframework.enums;
 
 /**
  * Created by jt on 12/16/15.

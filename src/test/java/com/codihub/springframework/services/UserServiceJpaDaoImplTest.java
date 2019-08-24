@@ -1,7 +1,7 @@
-package guru.springframework.services;
+package com.codihub.springframework.services;
 
-import guru.springframework.config.JpaIntegrationConfig;
-import guru.springframework.domain.*;
+import com.codihub.springframework.config.JpaIntegrationConfig;
+import com.codihub.springframework.domain.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

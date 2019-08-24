@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package com.codihub.springframework.domain;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Embedded;

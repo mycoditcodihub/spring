@@ -1,6 +1,6 @@
-package guru.springframework.domain;
+package com.codihub.springframework.domain;
 
-import guru.springframework.enums.OrderStatus;
+import com.codihub.springframework.enums.OrderStatus;
 
 import javax.persistence.*;
 import java.util.ArrayList;

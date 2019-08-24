@@ -1,4 +1,4 @@
-package guru.springframework.services;
+package com.codihub.springframework.services;
 
 import java.util.List;
 

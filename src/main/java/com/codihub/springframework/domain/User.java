@@ -1,6 +1,6 @@
-package guru.springframework.domain;
+package com.codihub.springframework.domain;
 
-import guru.springframework.domain.security.Role;
+import com.codihub.springframework.domain.security.Role;
 
 import javax.persistence.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package guru.springframework.services.security;
+package com.codihub.springframework.services.security;
 
 /**
  * Created by jt on 12/14/15.

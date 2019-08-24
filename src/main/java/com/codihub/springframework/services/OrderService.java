@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package com.codihub.springframework.services;
 
-import guru.springframework.domain.Order;
+import com.codihub.springframework.domain.Order;
 
 /**
  * Created by jt on 12/16/15.

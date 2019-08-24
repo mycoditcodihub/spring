@@ -1,8 +1,8 @@
-package guru.springframework.services.jpaservices;
+package com.codihub.springframework.services.jpaservices;
 
-import guru.springframework.domain.User;
-import guru.springframework.services.UserService;
-import guru.springframework.services.security.EncryptionService;
+import com.codihub.springframework.domain.User;
+import com.codihub.springframework.services.UserService;
+import com.codihub.springframework.services.security.EncryptionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;

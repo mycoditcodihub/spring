@@ -1,8 +1,8 @@
-package guru.springframework.services.mapservices;
+package com.codihub.springframework.services.mapservices;
 
-import guru.springframework.domain.Customer;
-import guru.springframework.domain.DomainObject;
-import guru.springframework.services.CustomerService;
+import com.codihub.springframework.domain.Customer;
+import com.codihub.springframework.domain.DomainObject;
+import com.codihub.springframework.services.CustomerService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

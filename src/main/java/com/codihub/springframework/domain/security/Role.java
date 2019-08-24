@@ -1,7 +1,7 @@
-package guru.springframework.domain.security;
+package com.codihub.springframework.domain.security;
 
-import guru.springframework.domain.AbstractDomainClass;
-import guru.springframework.domain.User;
+import com.codihub.springframework.domain.AbstractDomainClass;
+import com.codihub.springframework.domain.User;
 
 import javax.persistence.Entity;
 import javax.persistence.JoinTable;

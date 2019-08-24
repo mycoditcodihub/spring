@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package com.codihub.springframework.services;
 
-import guru.springframework.domain.Customer;
+import com.codihub.springframework.domain.Customer;
 
 /**
  * Created by jt on 11/14/15.

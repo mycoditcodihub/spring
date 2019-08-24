@@ -1,8 +1,8 @@
-package guru.springframework.services.mapservices;
+package com.codihub.springframework.services.mapservices;
 
-import guru.springframework.domain.DomainObject;
-import guru.springframework.domain.User;
-import guru.springframework.services.UserService;
+import com.codihub.springframework.domain.DomainObject;
+import com.codihub.springframework.domain.User;
+import com.codihub.springframework.services.UserService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

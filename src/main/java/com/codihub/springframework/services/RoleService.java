@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package com.codihub.springframework.services;
 
-import guru.springframework.domain.security.Role;
+import com.codihub.springframework.domain.security.Role;
 
 /**
  * Created by jt on 12/18/15.

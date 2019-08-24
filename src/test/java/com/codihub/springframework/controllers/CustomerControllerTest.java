@@ -1,8 +1,8 @@
-package guru.springframework.controllers;
+package com.codihub.springframework.controllers;
 
-import guru.springframework.domain.Address;
-import guru.springframework.domain.Customer;
-import guru.springframework.services.CustomerService;
+import com.codihub.springframework.domain.Address;
+import com.codihub.springframework.domain.Customer;
+import com.codihub.springframework.services.CustomerService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.*;

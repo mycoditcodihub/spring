@@ -1,6 +1,6 @@
-package guru.springframework.services.mapservices;
+package com.codihub.springframework.services.mapservices;
 
-import guru.springframework.domain.DomainObject;
+import com.codihub.springframework.domain.DomainObject;
 
 import java.util.*;
 

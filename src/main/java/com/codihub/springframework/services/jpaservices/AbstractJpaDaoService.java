@@ -1,4 +1,4 @@
-package guru.springframework.services.jpaservices;
+package com.codihub.springframework.services.jpaservices;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.PersistenceUnit;

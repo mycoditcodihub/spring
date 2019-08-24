@@ -1,4 +1,4 @@
-package guru.springframework.controllers;
+package com.codihub.springframework.controllers;
 
 import org.junit.Before;
 import org.junit.Test;

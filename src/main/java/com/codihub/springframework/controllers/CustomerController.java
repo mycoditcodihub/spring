@@ -1,7 +1,7 @@
-package guru.springframework.controllers;
+package com.codihub.springframework.controllers;
 
-import guru.springframework.domain.Customer;
-import guru.springframework.services.CustomerService;
+import com.codihub.springframework.domain.Customer;
+import com.codihub.springframework.services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
