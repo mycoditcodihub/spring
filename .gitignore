@@ -41,3 +41,7 @@ Thumbs.db
 *.iml
 atlassian-ide-plugin.xml
 target
+=======
+# ignore *.DS_Store
+/*.DS_Store
+*.DS_Store
