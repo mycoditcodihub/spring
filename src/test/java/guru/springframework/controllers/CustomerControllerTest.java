@@ -121,12 +121,8 @@ public class CustomerControllerTest {
         returnCustomer.getUser().setUsername(username);
         returnCustomer.getUser().setPassword(password);
 
-<<<<<<< HEAD
-        when(customerService.saveOrUpdate(Matchers.any())).thenReturn(returnCustomer);
-=======
         when(customerService.saveOrUpdateCustomerForm(Matchers.<CustomerForm>any())).thenReturn(returnCustomer);
         when(customerService.getById(Matchers.<Integer>any())).thenReturn(returnCustomer);
->>>>>>> a468374c63786ecb1a4d10755fca311f135285e2
 
         mockMvc.perform(post("/customer")
         .param("customerId", "1")

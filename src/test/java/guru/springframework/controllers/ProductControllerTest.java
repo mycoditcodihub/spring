@@ -106,7 +106,7 @@ public class ProductControllerTest {
         returnProduct.setPrice(price);
         returnProduct.setImageUrl(imageUrl);
 
-        when(productService.saveOrUpdate(Matchers.any())).thenReturn(returnProduct);
+        when(productService.saveOrUpdate(Matchers.<Product>any())).thenReturn(returnProduct);
 
         mockMvc.perform(post("/product")
         .param("id", "1")
