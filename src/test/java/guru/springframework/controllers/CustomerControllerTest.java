@@ -114,7 +114,7 @@ public class CustomerControllerTest {
         returnCustomer.setEmail(email);
         returnCustomer.setPhoneNumber(phoneNumber);
 
-        when(customerService.saveOrUpdate(Matchers.<Customer>any())).thenReturn(returnCustomer);
+        when(customerService.saveOrUpdate(Matchers.any())).thenReturn(returnCustomer);
 
         mockMvc.perform(post("/customer")
         .param("id", "1")
